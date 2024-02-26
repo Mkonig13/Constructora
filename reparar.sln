@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reparar", "reparar\reparar.csproj", "{2B728D47-C63F-4EF9-A76B-A3E1A1A6ADA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B728D47-C63F-4EF9-A76B-A3E1A1A6ADA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B728D47-C63F-4EF9-A76B-A3E1A1A6ADA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B728D47-C63F-4EF9-A76B-A3E1A1A6ADA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B728D47-C63F-4EF9-A76B-A3E1A1A6ADA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C37C9874-14A2-45D3-9A3A-0DF4B2B3BA29}
+	EndGlobalSection
+EndGlobal
