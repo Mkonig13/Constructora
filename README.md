@@ -1,2 +1,2 @@
 # Constructora
- Interfaz funcional para la administración de una empresa constructora.
+ Interfaz funcional hecha en C# para la administración de una empresa constructora.
